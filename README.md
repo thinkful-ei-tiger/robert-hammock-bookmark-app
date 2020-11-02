@@ -1,4 +1,4 @@
-# robertHammock-bookmarks-app
+# robert-hammock-bookmark-app
 Thinkful bookmark api practice web app
 
 located here:https://thinkful-ei-tiger.github.io/robert-hammock-bookmark-app/
